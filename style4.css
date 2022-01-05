@@ -46,11 +46,11 @@ h2{
 }
 .flexible{
     display: flex;
-    padding: 40px;
+    padding-left: 50px;
 }
-.welome{
-width: 30%;
-padding: 100px;
+.welcome{
+width: 50%;
+padding: 20px;
 }
 .fascinate{
     width: 50%;
@@ -65,20 +65,17 @@ padding: 100px;
     width: 200px;
     height: 200px;
     }
-.button{
-    background:  cyan;
-    box-shadow: orangered 5px 5px 5px 5px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight:700px;
-}
+button{
+        width: 100px;
+        height: 50px;
+        background-color: tomato;
+    }
 a:hover{
     color: red;
 }
-.achieve{
-width: 30%;
-padding: 40px;
-padding: 40px;
+.acheive{
+width: 50%;
+padding: 20px;
 }
 .corporate{
 box-shadow: rgb(85, 84, 84) 5px 5px 5px 5px;
@@ -124,4 +121,9 @@ border-radius:left 10px;
 }
 body{
    background-color:rgb(164, 215, 247);
+}
+.new{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
