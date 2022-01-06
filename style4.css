@@ -1,0 +1,225 @@
+.first{
+    display: inline-flex;
+    width: 100%;
+}
+.second{
+    width: 50%;
+}
+.third{
+    font-size: 30px;
+font-weight: 900px;
+border-left: 3px solid orangered;
+padding-top: 0px;
+padding-bottom: 0px;
+}
+.fourth{
+    color: orange;
+    display: block;
+    padding-top: 10px;
+}
+.sixth{
+    color: white;
+    background-color: orangered;
+    border: none;
+    padding: 5px;
+}
+.fifth{
+    width: 50%;
+}
+.fifth img{
+width:200px;
+height: 200px;
+}
+.seventh{
+    text-align: center;
+color: rgb(31, 1, 31);
+text-indent: 20px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+}
+.eighth{
+    color: orange;
+    display: inline;
+}
+.fifteen{
+width: 90%;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.fourty{
+    display: flex;
+    margin-left: 170px;
+}
+.ninth{
+width: 30%;
+border: 2px solid white;
+border-radius: 20px;
+padding: 20px 20px;
+margin: 10px 10px;
+background-color: rgb(170, 214, 231)
+}
+.tenth{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.eleventh{
+width: 30%;
+padding: 20px 20px;
+margin: 10px 10px;
+border: 2px solid white;
+border-radius: 20px;
+background-color: rgb(192, 161, 191);
+}
+.twelvth{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.thirteen{
+width: 30%;
+padding: 20px 20px;
+margin: 10px 10px;
+border: 2px solid white;
+border-radius: 20px;
+background-color: rgb(214, 171, 129);
+}
+.fourteen{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.mission{
+background-color: rgb(170, 214, 231);
+}
+.vission{
+background-color: rgb(192, 161, 191);
+}
+.goals{
+background-color: rgb(214, 171, 129);
+}
+.ninth img{
+    width: 100px;
+    height: 100px;
+}
+.eleventh img{
+    width: 100px;
+    height: 100px;
+}
+.thirteen img{
+    width: 100px;
+    height: 100px;
+}
+.sixteen{
+    width: 100%;
+    display: flex;
+    padding: 20px 20px;
+}
+.seventeen{
+width: 50%;
+}
+.seventeen img{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+}
+.eighteen{
+width: 50%;
+}
+.last{
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+}
+.twenty{
+    display: block;
+}
+.nineteen{
+    color: white;
+    background-color: orangered;
+    border: none;
+    padding: 5px;
+}
+.twentyone{
+    display: inline-flex;
+    width: 100%;
+    padding: 20px 20px;
+}
+.twentytwo{
+width: 50%;
+}
+.twentytwo img{
+    width: 400px;
+    height: 400px;
+}
+.eighthree{
+width: 50%;
+}
+.fast{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.twentyfour{
+    display: block;
+}
+.twentyfive{
+    color: white;
+    background-color: orangered;
+    border: none;
+    padding: 5px;
+}
+.twentynine{
+width: 100%;
+}
+.sixty{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.fifty{
+    display: flex;
+}
+.twentysix{
+width: 50%;
+}
+.twentysix img{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+}
+.twentyseven{
+width: 50%;
+}
+.dead{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.twentyeight{
+    color: orange;
+}
+.thirty{
+background-color: black;
+width: 100%;
+height: 80px;
+}
+.thirtytwo{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-family: cursive;
+}
+.thirtyone{
+color:orange;
+}
+.thirtythree{
+    color: white;
+    text-align: center;
+}
+.thirtyfour{
+    color: white;
+    background-color: orangered;
+    border: none;
+    padding: 5px;
+}
