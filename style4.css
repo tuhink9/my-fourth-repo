@@ -186,13 +186,10 @@ width: 100%;
 }
 .fifty{
     display: flex;
+    background-color: cornflowerblue;
 }
 .twentysix{
 width: 50%;
-background-image: url(./images/regform.jpg);
-width: 400px;
-height: 400px;
-margin-top:40px 60px 10px 10px;
 text-align: center;
 }
 .twentyseven{
@@ -202,7 +199,7 @@ margin-left: 60px;
 }
 .safe{
     color: white;
-    background-color: orangered;
+    background-color: rgb(235, 67, 5);
     border: none;
     padding: 5px;
     text-align: center;
@@ -211,9 +208,10 @@ margin-left: 60px;
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
+    margin-bottom: 10px;
 }
 .twentyeight{
-    color: orange;
+    color: orangered;
 }
 .thirty{
 background-color: black;
